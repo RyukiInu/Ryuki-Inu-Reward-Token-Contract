@@ -1,1 +1,3 @@
-# Ryuki-Inu-Reward-Token-Contract
+Ryuki Inu Reward Token Contract
+
+*created by Pinksale
